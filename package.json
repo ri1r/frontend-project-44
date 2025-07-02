@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code.",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "brain-games.js",
+  "bin": {
+    "code.": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "console.log('gdf');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ri1r/frontend-project-44.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ri1r/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/ri1r/frontend-project-44#readme"
+}
