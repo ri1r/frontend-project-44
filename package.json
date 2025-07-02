@@ -4,7 +4,7 @@
   "description": "1.0.0",
   "main": "brain-games.js",
   "bin": {
-    "code.": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "scripts": {
     "test": "console.log('gdf');"
